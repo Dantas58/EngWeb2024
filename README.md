@@ -6,4 +6,4 @@ Aqui serão armazenados todos os trabalhos da Unidade Curricular de Engenharia W
 ## Aluno
 - **Nome:** Pedro Dantas da Cunha Pereira
 - **ID:** a97396
-- **Foto:**
+- **Foto:** ![Fotografia do Aluno](foto.png)
